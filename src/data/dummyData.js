@@ -1,4 +1,3 @@
-// src/data/dummyData.js
 export const initialChats = [
   {
     id: 1,

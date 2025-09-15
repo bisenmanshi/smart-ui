@@ -1,4 +1,3 @@
-// src/components/NewChat.jsx
 import React, { useState } from "react";
 
 const sampleIcebreakers = [

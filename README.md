@@ -1,14 +1,18 @@
-# React & Tailwind CSS Starter Pack
+Smart Team Chat UI:-
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+A lightweight prototype of a Smart Team Chat UI built with React.
+The project demonstrates how AI placeholders (like summarizing conversations, suggesting replies, and generating icebreakers) can enhance team communication.
 
-## Usage
+Note: This is only a UI prototype → No backend, no real-time chat.
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+Objective:-
+
+1.Build a minimal chat interface in React.
+2.Show how AI-first features can be integrated with placeholders.
+3.Focus on UI/UX only (not backend or actual AI).
 
 1. Install the required packages.
     ```sh
-    cd react-tailwind-css-starter-pack
     npm install
     ```
 
